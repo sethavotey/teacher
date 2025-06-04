@@ -21,5 +21,5 @@ app.delete('/remove', (req, res) => {
 
 
 //STARTS THE EXPRESS SERVER. 5001 IS THE PORT NUMBER
-app.listen(5002, () =>
-    console.log('EXPRESS Server Started at Port No: 5002'));
+app.listen(5001, () =>
+    console.log('EXPRESS Server Started at Port No: 5001'));
